@@ -1,0 +1,19 @@
+
+F
+java:S2629V"$Invoke method(s) only conditionally.(µÏ¥éøÿÿÿÿ8ôü‹Òû1
+b
+java:S3973]"GUse indentation to denote the code conditionally executed by this "if".(†Ö°Ùıÿÿÿÿ
+Y
+java:S2589]"7Remove this expression which always evaluates to "true"(†Ö°Ùıÿÿÿÿ8¤ş‹Òû1
+e
+java:S2583Y"CChange this condition so that it does not always evaluate to "true"(šÈåáıÿÿÿÿ8¤ş‹Òû1
+e
+java:S2583X"CChange this condition so that it does not always evaluate to "true"(á¦ü­øÿÿÿÿ8¤ş‹Òû1
+`
+java:S2583W"CChange this condition so that it does not always evaluate to "true"(Ó«Ì8¤ş‹Òû1
+b	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïûÑ$
+c	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¨ğó
+h	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãáé¢ıÿÿÿÿ
+c	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äæƒæ
+ƒ
+java:S3457V"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(µÏ¥éøÿÿÿÿ8¯ş‹Òû1
